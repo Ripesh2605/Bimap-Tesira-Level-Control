@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bimap Tesira Level Control", "Bimap Tesira Level Control.csproj", "{FE9F44FA-B0A7-444B-B120-9FC6BDC18B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9F44FA-B0A7-444B-B120-9FC6BDC18B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9F44FA-B0A7-444B-B120-9FC6BDC18B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9F44FA-B0A7-444B-B120-9FC6BDC18B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9F44FA-B0A7-444B-B120-9FC6BDC18B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F292D46-CB47-42C2-9474-EB65100ABD76}
+	EndGlobalSection
+EndGlobal
